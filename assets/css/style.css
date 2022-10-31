@@ -22,7 +22,7 @@ main .score-container {
     gap: 50px;
 }
 
-main h2 {
+main .score-container h2 {
     font-size: 1.8em;
     font-weight: 500;
 }
