@@ -50,7 +50,7 @@ function countdown() {
         clearInterval(positionId)
         start.style.display = "none"
         refresh.style.display = "block"
-        window.alert("Fim de Jogo! Tempo expirado.")
+        window.alert("Game over. Time expired!")
     }
     
 }    
